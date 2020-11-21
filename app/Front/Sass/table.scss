@@ -1,0 +1,27 @@
+.table {
+    width: 100%;
+    border-collapse:collapse;
+    border-spacing: 0;
+
+    tbody {
+        padding : 0;
+        width: 100%;
+    }
+
+    th,td {
+        margin : 0;
+        padding: 5%;
+    }
+
+
+}
+
+.table-border{
+    th,td{
+        padding : 10px;
+        border : solid 1px #f0f0f0;
+    }
+}
+
+
+

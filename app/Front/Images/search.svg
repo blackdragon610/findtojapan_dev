@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="22" viewBox="0 0 24 22">
+  <g id="Search_Glyph" data-name="Search Glyph" transform="translate(-306 -2923)">
+    <g id="Frame" transform="translate(306 2923)" fill="rgba(255,255,255,0)" stroke="rgba(0,0,0,0)" stroke-width="1">
+      <rect width="24" height="22" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="21" fill="none"/>
+    </g>
+    <text id="Symbol" transform="translate(318 2940)" fill="#a6bcd0" font-size="17" font-family="SFProText-Regular, SF Pro Text" letter-spacing="0em"><tspan x="-9.724" y="0">??</tspan></text>
+  </g>
+</svg>

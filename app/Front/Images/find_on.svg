@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="????_1625" data-name="???? 1625" transform="translate(-42 -625)">
+    <circle id="???" cx="15" cy="15" r="15" transform="translate(42 625)" fill="#D47FA6"/>
+    <g id="????_1621" data-name="???? 1621" transform="translate(9 613)">
+      <g id="????_1620" data-name="???? 1620">
+        <g id="????_1619" data-name="???? 1619">
+          <path id="???" d="M0,0H26V26H0Z" transform="translate(35 14)" fill="rgba(255,255,255,0)" opacity="0"/>
+        </g>
+      </g>
+    </g>
+    <path id="??" d="M17.1,503.262l-3.375-3.375a.812.812,0,0,0-.575-.237h-.552a7.037,7.037,0,1,0-1.219,1.219v.551a.816.816,0,0,0,.237.576l3.376,3.375a.81.81,0,0,0,1.148,0l.957-.958A.816.816,0,0,0,17.1,503.262ZM7.042,499.65a4.333,4.333,0,1,1,4.334-4.333A4.331,4.331,0,0,1,7.042,499.65Z" transform="translate(48.333 143.058)" fill="#fff"/>
+  </g>
+</svg>

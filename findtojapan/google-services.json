@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "964269113832",
+    "firebase_url": "https://findtojapan-408c0.firebaseio.com",
+    "project_id": "findtojapan-408c0",
+    "storage_bucket": "findtojapan-408c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964269113832:android:4a41c9a0c73840d28ae45d",
+        "android_client_info": {
+          "package_name": "com.findtojapan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964269113832-62pv65i2tlvv96shclloqiolmrhdlhga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPpMIaRnFSS6oE0AWI187JCugdr6Ttf-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964269113832-62pv65i2tlvv96shclloqiolmrhdlhga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "964269113832-hkldocjd1hir6hecplvffomjqv4lmi7m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.findtojapan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

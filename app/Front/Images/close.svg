@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="グループ_1630" data-name="グループ 1630" transform="translate(-309 -36)">
+    <circle id="ellipse" cx="15" cy="15" r="15" transform="translate(309 36)" fill="#d47fa6"/>
+    <g id="グループ_1368" data-name="グループ 1368" transform="translate(323.985 30.047) rotate(45)">
+      <line id="line" y2="12" transform="translate(14.906 8.805)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="line-2" data-name="line" d="M12,0H0" transform="translate(8.806 14.906)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

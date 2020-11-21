@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+  id="jp.makoto.keyboard"
+  version="0.0.1">
+
+    <name>Keyboard Plugin</name>
+    <description>オリジナルキーボードプラグイン</description>
+    <author>手嶋　誠</author>
+    <license>Apache 2.0 License</license>
+    <engines>
+        <engine name="cordova" version=">=3.5.0" />
+    </engines>
+    <js-module src="www/keyboard.js" name="keyboard">
+        <clobbers target="KeyboardPlugin" />
+    </js-module>
+
+    <platform name="ios">
+        <config-file target="config.xml" parent="/*">
+            <feature name="KeyboardPlugin">
+                <param name="ios-package" value="KeyboardPlugin"/>
+            </feature>
+    </config-file>
+    <header-file src="src/ios/KeyboardPlugin.h" target-dir="src/ios" />
+        <source-file src="src/ios/KeyboardPlugin.m" target-dir="src/ios" />
+    </platform>
+
+
+</plugin>
